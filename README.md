@@ -13,6 +13,14 @@ Includes user auth, product catalog, cart/checkout flow, and service-to-service 
 
 ---
 
+### 📱 Time Tracker App (Android + Kotlin)
+Native Android implementation of a time-tracking tool with clean architecture, Room persistence, and Material UI.
+
+**Tech:** Kotlin, Android SDK, Room  
+**Key Concepts:** MVVM, coroutine-based async flow
+
+---
+
 ### ⚙️ 2D Physics Engine (Python)
 A custom physics simulation engine supporting collision detection, restitution, forces, and rigid-body dynamics.
 
@@ -21,22 +29,12 @@ A custom physics simulation engine supporting collision detection, restitution, 
 
 ---
 
-### ⏱️ Time Tracker App (React Native + TypeScript)
-Cross-platform mobile app for tracking daily habits and time spent on tasks.  
-Includes charts, analytics, and offline persistence.
+### 📱 Social Media App (React Native + Spring Boot)
+A mobile social platform for creating posts, interacting with other users, and viewing real-time content updates.  
+Includes secure user authentication, feed generation, and a scalable REST API.
 
-**Tech:** React Native, TypeScript, Expo  
-**Key Concepts:** State management, persistent storage, mobile UI/UX
-
----
-
-### 📱 Time Tracker App (Android + Kotlin)
-Native Android implementation of a time-tracking tool with clean architecture, Room persistence, and Material UI.
-
-**Tech:** Kotlin, Android SDK, Room  
-**Key Concepts:** MVVM, coroutine-based async flow
-
-
+**Tech:** TypeScript, React Native, Spring Boot  
+**Key Concepts:** REST APIs, authentication, mobile UI/UX
 
 ---
 
