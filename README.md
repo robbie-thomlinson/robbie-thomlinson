@@ -65,8 +65,14 @@ Includes secure user authentication, feed generation, and a scalable REST API.
 
 ---
 
-## 📈 GitHub Stats
-![Robbie's GitHub stats](https://github-readme-stats.vercel.app/api?username=robbie-thomlinson&show_icons=true&theme=default)
+## 📊 GitHub Stats
+
+![Robbie's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=robbie-thomlinson&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=robbie-thomlinson&layout=compact&theme=transparent)
+
+
+
 
 
 <!--
