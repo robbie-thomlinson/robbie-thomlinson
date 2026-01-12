@@ -13,19 +13,20 @@ Includes user auth, product catalog, cart/checkout flow, and service-to-service 
 
 ---
 
+### 📚 Academic Knowledge RAG System (Python)
+A Retrieval-Augmented Generation system interacting with your university course content thorugh an AI agent
+
+**Tech:** Python, LlamaIndex, LangChain, LangGraph, Qdrant  
+**Key Concepts:** Vector databases, AI agents, information retrieval
+
+---
+
 ### 📱 Time Tracker App (Android + Kotlin)
 Native Android implementation of a time-tracking tool with clean architecture, Room persistence, and Material UI.
 
 **Tech:** Kotlin, Android SDK, Room  
 **Key Concepts:** MVVM, coroutine-based async flow
 
----
-
-### ⚙️ 2D Physics Engine (Python)
-A custom physics simulation engine supporting collision detection, restitution, forces, and rigid-body dynamics.
-
-**Tech:** Python  
-**Key Concepts:** Collision resolution, vector math, timestep integration
 
 ---
 
